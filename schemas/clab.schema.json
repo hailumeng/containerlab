@@ -65,7 +65,10 @@
                         "host",
                         "keysight_ixia-c-one",
                         "ipinfusion_ocnos",
-                        "checkpoint_cloudguard"
+                        "checkpoint_cloudguard",
+                        "vr-cat9kv",
+                        "vr-c9800v",
+                        "vr-c8000v"
                     ]
                 },
                 "license": {
